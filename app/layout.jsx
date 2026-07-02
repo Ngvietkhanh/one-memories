@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "One Memories",
   description: "A collaborative wedding-film atelier — Bay Area, California",
