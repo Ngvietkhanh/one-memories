@@ -1,0 +1,16 @@
+{
+  "name": "one-memories",
+  "version": "1.0.0",
+  "description": "A collaborative wedding-film atelier — Bay Area, California",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^19",
+    "react-dom": "^19",
+    "next": "latest"
+  }
+}
